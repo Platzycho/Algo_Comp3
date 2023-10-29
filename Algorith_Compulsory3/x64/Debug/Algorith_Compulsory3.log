@@ -1,0 +1,140 @@
+﻿  Algorith_Compulsory3.cpp
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(6,17): error C2065: 'GraphNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(54): message : see reference to class template instantiation 'Graph<T>' being compiled
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(6,10): error C2974: 'std::vector': invalid template argument for '_Ty', type expected
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : see declaration of 'std::vector'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(6,10): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : see declaration of 'std::vector'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(6,30): error C2059: syntax error: '>'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(6,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(11,14): error C2143: syntax error: missing ';' before '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(11,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(11,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(15,17): error C2065: 'GraphNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(15,10): error C2974: 'std::vector': invalid template argument for '_Ty', type expected
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : see declaration of 'std::vector'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(15,10): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(496): message : see declaration of 'std::vector'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(15,30): error C2059: syntax error: '>'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(15,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(35,21): error C2061: syntax error: identifier 'GraphNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(39,21): error C2061: syntax error: identifier 'GraphNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(43,21): error C2061: syntax error: identifier 'GraphNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(47,30): error C2061: syntax error: identifier 'GraphNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(20,16): error C3861: 'nodes': identifier not found
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(20,16): error C2065: 'nodes': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(28,16): error C3861: 'nodes': identifier not found
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\Graph.h(28,16): error C2065: 'nodes': undeclared identifier
+  GeneralTree.cpp
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(11,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(30): message : see reference to class template instantiation 'GeneralTree<T>' being compiled
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(11,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(11,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(16,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(16,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(16,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(17,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(17,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(17,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(18,10): error C2039: 'vector': is not a member of 'std'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\predefined C++ types (compiler internal)(342): message : see declaration of 'std'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(18,16): error C2143: syntax error: missing ';' before '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(18,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(18,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(20,15): error C2061: syntax error: identifier 'TreeNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(22,17): error C2061: syntax error: identifier 'TreeNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(23,17): error C2061: syntax error: identifier 'TreeNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(24,21): error C2061: syntax error: identifier 'TreeNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(25,21): error C2061: syntax error: identifier 'TreeNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.h(26,30): error C2061: syntax error: identifier 'TreeNode'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(6,5): error C2065: 'root': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(6,16): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(6,16): error C2760: syntax error: 'identifier' was unexpected here; expected 'type specifier'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(6,24): error C3878: syntax error: unexpected token '<' following 'expression'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(6,24): message : error recovery skipped: '< identifier >  . . . identifier'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(6,36): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(6,36): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(6,36): message : error recovery skipped: ')'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(10,9): error C2988: unrecognizable template declaration/definition
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(10,9): error C2143: syntax error: missing ';' before '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(10,9): error C2059: syntax error: '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(10,26): error C2065: 'T': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(10,14): error C2923: 'GeneralTree': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(10): message : see declaration of 'T'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(10,40): error C2143: syntax error: missing ';' before '{'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(10,40): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(15,9): error C2988: unrecognizable template declaration/definition
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(15,9): error C2143: syntax error: missing ';' before '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(15,9): error C2059: syntax error: '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(15,26): error C2065: 'T': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(15,14): error C2923: 'GeneralTree': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(15): message : see declaration of 'T'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(15,59): error C2143: syntax error: missing ';' before '{'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(15,59): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\predefined C++ types (compiler internal)(342): message : see declaration of 'std'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29,12): error C2988: unrecognizable template declaration/definition
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29,12): error C2059: syntax error: '<'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29,39): error C2065: 'T': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29,27): error C2923: 'GeneralTree': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29): message : see declaration of 'T'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29,74): error C2143: syntax error: missing ';' before '{'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(29,74): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(35,26): error C3861: 'root': identifier not found
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(35,26): error C2065: 'root': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(39,1): error C2470: 'GeneralTree<T>::depth': looks like a function definition, but there is no parameter list; skipping apparent body
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(39,1): error C2072: 'GeneralTree<T>::depth': initialization of a function
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(39,27): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(39,40): error C2065: 'node': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(39,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(45,13): error C2065: 'root': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(45,13): error C3861: 'root': identifier not found
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(49,1): error C2470: 'GeneralTree<T>::isRoot': looks like a function definition, but there is no parameter list; skipping apparent body
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(49,1): error C2072: 'GeneralTree<T>::isRoot': initialization of a function
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(49,29): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(49,42): error C2065: 'node': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(49,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(54,1): error C2470: 'GeneralTree<T>::isLeaf': looks like a function definition, but there is no parameter list; skipping apparent body
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(54,1): error C2072: 'GeneralTree<T>::isLeaf': initialization of a function
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(54,29): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(54,42): error C2065: 'node': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(54,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,22): error C2182: 'insertNode': this use of 'void' is not valid
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,1): error C2470: 'GeneralTree<T>::insertNode': looks like a function definition, but there is no parameter list; skipping apparent body
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,1): error C2072: 'GeneralTree<T>::insertNode': initialization of a function
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,33): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,46): error C2065: 'parent': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,54): error C2275: 'T': expected an expression instead of a type
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,56): error C2146: syntax error: missing ')' before identifier 'value'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(59,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(64,22): error C2182: 'deleteNode': this use of 'void' is not valid
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(64,1): error C2470: 'GeneralTree<T>::deleteNode': looks like a function definition, but there is no parameter list; skipping apparent body
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(64,1): error C2072: 'GeneralTree<T>::deleteNode': initialization of a function
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(64,33): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(64,46): error C2065: 'node': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(64,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(78,22): error C2182: 'depthFirstTraversal': this use of 'void' is not valid
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(78,1): error C2470: 'GeneralTree<T>::depthFirstTraversal': looks like a function definition, but there is no parameter list; skipping apparent body
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(78,1): error C2072: 'GeneralTree<T>::depthFirstTraversal': initialization of a function
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(78,42): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(78,55): error C2065: 'node': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(78,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(87,9): error C2065: 'root': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(91,20): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(91,32): error C2760: syntax error: '>' was unexpected here; expected 'expression'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(91,32): error C3878: syntax error: unexpected token '>' following 'expression'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(91,32): message : error recovery skipped: '> identifier'
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(92,9): error C2065: 'q': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(92,16): error C2065: 'root': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(94,17): error C2065: 'q': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(95,13): error C2065: 'TreeNode': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(95,26): error C2065: 'node': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(95,33): error C2065: 'q': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(96,13): error C2065: 'q': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(97,26): error C2065: 'node': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(99,31): error C2065: 'node': undeclared identifier
+C:\Users\Nesli\OneDrive\Dokumenter\Algorithm\Compulsory_3\Algo_Comp3\Algorith_Compulsory3\GeneralTree.cpp(100,17): error C2065: 'q': undeclared identifier
+  Tree_Node.cpp
+  Generating Code...
